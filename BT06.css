@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 24px;
+}
+
+.img {
+    height: 600px;
+    width: 300px;
+}
+
+.input {
+    background-color: black;
+    color: aliceblue;
+}
+
+.color {
+    color: aliceblue;
+}
+
+.button {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.a {
+    color: azure;
+}

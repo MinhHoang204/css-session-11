@@ -1,0 +1,22 @@
+.header {
+    background-color: rgb(160, 160, 230);
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 24px;
+}
+
+.a2 {
+    color: aliceblue;
+}
+
+.button {
+    background-color:azure;
+    color: white;
+    width: 20px;
+    height: 10px;
+}
+
